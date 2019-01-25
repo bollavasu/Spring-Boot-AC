@@ -1,0 +1,7 @@
+
+https://www.mkyong.com/spring-boot/how-to-display-all-beans-loaded-by-spring-boot/
+
+http://localhost:8080/
+
+It displays all beans loaded by Spring Boot
+We can use applicationContext.getBeanDefinitionNames() to get all the beans loaded by the Spring container
